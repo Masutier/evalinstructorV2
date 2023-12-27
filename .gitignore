@@ -2,10 +2,7 @@
 venv
 venv/*
 
-static/docs/confid/instructores.json
-static/docs/confid/evaluación de instructores
-static/docs/confid/InstructoresAppSep18.odt
-
+static/docs/confid/*
 static/docs/appInstr/*
 
 
